@@ -1,0 +1,72 @@
+.post{
+    display: inline-flex;
+    width: 100%;
+    background-color: var(--primary);
+}
+
+.logoPost{
+    display: flex;
+    width: 4vw;
+    height: 30px;
+    align-items: center;
+}
+
+.logoPost img{
+    width: 3vw;
+    align-items: center;
+}
+
+.logoPost:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+
+.postingForm{
+    position: relative;
+    width: 50vw;
+    margin: 5px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.buttonBox{
+    border-top: 1px solid grey;
+}
+
+.postingForm input{
+    width: 46vw;
+    align-items: center;
+    height: 30px;
+    border-radius: 5px;
+    border:none;
+}
+
+.postingForm input:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+
+.publishing{
+    width: 45vw;
+    display: flex;
+}
+
+.publishingButton{
+    width: 10vw;
+    background-color: white;
+    margin: 5px 15px;
+    border-radius: 5px;
+    border: none;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.publishingButton:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.ButtonLogo{
+    width: 5vw;
+    height: 5vh;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: content-box;
+} /*resetting previous configs*/
+
+.middle-container{
+    width: 50%;
+    padding: 15px 20px;
+    margin: 15px 20px;
+    background-color: var(--primary);
+}

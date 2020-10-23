@@ -1,0 +1,126 @@
+:root {
+    --primary: #ffffff;
+    --secondary:#1979a9;
+  }
+  
+  .btn {
+    padding: 8px 20px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  
+  .btn--primary {
+    background-color: var(--secondary);
+    color: #fff;
+    border: 1px solid var(--primary);
+  }
+
+  .btn--primary:hover{
+    border: 1px solid #FF7A00;
+    background-color: #fff;
+    color:var(--primary);
+    font-weight: bold;
+    transition: all 0.3s ease-out;
+  }
+
+  .btn--secondary {
+    background-color: #5B074D;
+    color: #fff;
+    border: 1px solid var(--white);
+  }
+
+  .btn--secondary:hover{
+    border: 1px solid #5b074d;
+    background-color: #fff;
+    color: var(--secondary);
+    font-weight: bold;
+    transition: all 0.3s ease-out;
+  }
+  
+  .btn--outline {
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid var(--white);
+    transition: all 0.3s ease-out;
+  }
+
+  .btn--mobile:hover, .btn--outline:hover{
+    background-color: #fff;
+    color: #5B074D;
+  }
+  
+  .btn--medium {
+    padding: 8px 20px;
+    font-size: 18px;
+    width: 250px;
+  }
+  
+  .btn--large {
+    padding: 12px 26px;
+    font-size: 20px;
+    width: 350px;
+  }
+  
+  .btn--mobile {
+    text-align: center;
+    border-radius: 4px;
+    width: 80%;
+    text-decoration: none;
+    font-size: 1.5rem;
+    background-color: transparent;
+    color: #fff;
+    padding: 14px 20px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-out;
+  }
+  
+  .btn--wide {
+    padding: 12px 64px;
+    font-size: 20px;
+    width: 450px;
+  }
+  
+  .btn--wide:hover {
+    color: #fff;
+    background-color: #FF7A00;
+    transition: all 0.2s ease-out;
+  }
+  
+  .btn-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 8px 16px;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .primary {
+    background-color: #FF7A00;
+    color: #fff;
+    border: none;
+  }
+  
+  .primary:hover {
+    background-color: #fff;
+    color: #FF7A00;
+    border: none;
+  }
+
+  .secondary {
+    background-color: #5B074D;
+    color: #fff;
+    border: none;
+  }
+  
+  .secondary:hover {
+    background-color: #fff;
+    color: #5B074D;
+    border: none;
+  }
+  
