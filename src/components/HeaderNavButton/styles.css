@@ -1,0 +1,50 @@
+.header-nav-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  height: 100%;
+  width: 80px;
+  background: none;
+}
+
+.header-nav-button > span {
+  height: 50%;
+  width: 50%;
+}
+
+.header-nav-button > span > img {
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+
+.header-nav-button p {
+  color: white;
+  font-size: 0.7rem;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.header-nav-button-highlight {
+  border-bottom: 2px white solid;
+  color: white;
+  fill: white;
+}
+
+.header-nav-button-idle {
+  color: #e1e9ee;
+  fill: #e1e9ee;
+}
+
+.header-nav-button-idle:hover {
+  color: white;
+  fill: white;
+}
+
+.gray-border-right {
+  border-right: 1px rgba(200, 200, 200, 0.3) solid;
+}
