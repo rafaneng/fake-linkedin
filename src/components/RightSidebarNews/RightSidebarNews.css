@@ -1,0 +1,92 @@
+.card-box-section-container {
+  font-size: 16px !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 3px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 83ms;
+  background-color: #fff;
+  border-radius: 2px;
+  overflow: visible;
+  position: relative;
+  line-height: 1.5;
+  width: 25%;
+  height: 310px;
+  padding: 10px;
+}
+
+.rsn-container {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Fira Sans, Ubuntu, Oxygen, Oxygen Sans, Cantarell,
+    Droid Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+    Lucida Grande, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.9);
+  display: block;
+  box-sizing: inherit;
+  margin: 0;
+  padding: 12px 0;
+  border: 0;
+  font-size: 100%;
+  background: transparent;
+  transition-property: max-height, opacity;
+}
+.rsn-title-subcontainer {
+  display: flex !important;
+  padding: 0 12px;
+  font-size: 1.6rem;
+}
+
+.rsn-ul-news {
+  list-style: none !important;
+  margin: 8px 0;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.rsn-h2-ul-news {
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+
+.rsn-li-link-item {
+  color: rgba(0, 0, 0, 0.9) !important;
+  text-decoration: none;
+  font-weight: 600;
+  background-color: transparent;
+  border: 0;
+}
+
+.rsn-item-label {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  padding-right: 16px !important;
+  margin-top: 4px !important;
+  font-size: 16px !important;
+  line-height: 1.42857;
+}
+
+.rsn-li-point {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+  margin-left: 12px;
+  background-color: #33aada;
+  border: 4px solid var(--blue-50, #33aada);
+}
+
+.rsn-li-info {
+  padding-left: 28px;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  display: inline-block !important;
+  width: 100% !important;
+  padding-right: 12px !important;
+  font-size: 16px !important;
+  line-height: 1.33333;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.6);
+}
