@@ -3,7 +3,7 @@ import "./SidebarLeft.css";
 
 const SidebarLeft = (props) => {
     return(
-        <main className="SidebarLeft">
+        <aside className="SidebarLeft">
             <section className="container profile">
                 <div className="profile-info">
                     <div className="profile-img"><img src={props.img} alt=""/></div>
@@ -57,7 +57,7 @@ const SidebarLeft = (props) => {
                 </ul>
                 <a href="#">Descubra mais</a>
             </section>
-        </main>
+        </aside>
     )
 }
 export default SidebarLeft
