@@ -56,6 +56,12 @@
   border-top-right-radius: 2px;
 }
 
+.header-search-bar-container > input:focus,
+.header-search-bar-container > input:active {
+  width: 80%;
+  background-color: white;
+}
+
 .header-search-bar-container > svg {
   height: 80%;
   width: 80%;

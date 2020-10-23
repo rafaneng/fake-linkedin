@@ -24,7 +24,7 @@
 }
 
 .header-nav-button p {
-  color: white;
+  color: inherit;
   font-size: 0.7rem;
   font-family: Helvetica, Arial, sans-serif;
 }
