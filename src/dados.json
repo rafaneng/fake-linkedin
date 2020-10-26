@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "foto": "https://www.nube.com.br/media/noticias/2008/06/17/1049/perfil-profissional-sucesso-carreira-caracteristicas_400x600.jpg",
+        "nome": "Guilherme Campos",
+        "subTitle": "Gerente Financeiro - Samsung Brasil",
+        "url":"https://media-exp1.licdn.com/dms/image/C4E22AQHcVRiqiXYmwQ/feedshare-shrink_800-alternative/0?e=1606348800&v=beta&t=xY6Cpf83Ajk_mpvfI7uq6uBYLu-4oA7GMMw5e8_Kc8A", 
+        "text": "Graças a vocês, a Samsung agora é uma das cinco Melhores Marcas Globais em 2020 no ranking da Interbrand. O ano não tem sido fácil, mas com apoio e confiança é possível ir além. E essa conquista é o começo de muito mais que ainda vem por aí."
+    },
+    {
+        "id": 2,
+        "foto": "https://media-exp1.licdn.com/dms/image/C4D03AQFoCmYfy7PFNA/profile-displayphoto-shrink_100_100/0?e=1609372800&v=beta&t=20foMcWDusVet1WFDOfdOPv_NVEnrWX5DZc-8VukArE",
+        "nome": "Bruno de Oliveira",
+        "subTitle": "CEO e Founder Ecommerce na Prática",
+        "url":"https://media-exp1.licdn.com/dms/image/C4D12AQE_QPwknMsO6w/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=6H4DmtQ4ordLT2wrEn-N8ES_BM8JZ1WopNYmdhB1a-g", 
+        "text": "A nova realidade do Ecommerce"
+    },
+    {
+        "id": 3,
+        "foto": "https://media-exp1.licdn.com/dms/image/C4E0BAQFXpEoABaaZNA/company-logo_100_100/0?e=1611792000&v=beta&t=AOvq9hIPhyaIuO8KAPP26egBgy8yPUYJlhNadpRUmUM",
+        "nome": "Fundação Getulio Vargas",
+        "subTitle": "Patrocinado",
+        "url":"https://media-exp1.licdn.com/dms/image/sync/C4E18AQFOQDOlEY0z2Q/companyUpdate-article-image-shrink_627_1200/0?e=1606348800&v=beta&t=XLBIbu95JHMrGK07Vu8Icyz4Mct1wyTIsxZLr4S74f4", 
+        "text": "O mestrado ideal para você assumir a liderança na transferência de conhecimentos para as organizações públicas e a sociedade."
+    },
+    {
+        "id": 4,
+        "foto": "https://media-exp1.licdn.com/dms/image/C5603AQHv9IK9Ts0dFA/profile-displayphoto-shrink_100_100/0?e=1609372800&v=beta&t=I0-nLhqBeETDoq2y-9HmNHV5SDKCS0VlU18pmto-SKQ",
+        "nome": "Bill Gates",
+        "subTitle": "Co-chair, Bill & Melinda Gates Foundation",
+        "url":"https://media-exp1.licdn.com/dms/image/sync/C4D27AQE_w0IvF1XQjw/articleshare-shrink_800/0?e=1603756800&v=beta&t=TkO8qhwFPq0b284EiXYskDW81fERLh7RIaZG2QOwWMQ", 
+        "text": "It’s inspiring to see so much passion these days for dealing with climate change, and to know that the world has set some ambitious goals for solving it. What we need now are practical plans to reach those goals."
+    },
+    {
+        "id": 5,
+        "foto": "https://media-exp1.licdn.com/dms/image/C5103AQHwBHjCU4Yh0A/profile-displayphoto-shrink_100_100/0?e=1609372800&v=beta&t=lm9neP8rJ0Ay0KTfILS_wtdAstkPT6jOM-p33HYwaA8",
+        "nome": "Mario Laffitte",
+        "subTitle": "Vice President Latin America - Public Affairs",
+        "url":"https://media-exp1.licdn.com/dms/image/sync/C4D27AQHCDT-Dqy8zEg/articleshare-shrink_800/0?e=1603760400&v=beta&t=PsfuoF_mGWwYy240qp29qnjKPGSjHwwnDgaywG_8vgY", 
+        "text": "Sao os jovens que vão construir um mundo melhor e sustentável. Eles estão na campanha Generation 17 da Samsung - em parceira com o Programa das Nações Unidas para o Desenvolvimento."
+    },
+    {
+        "id": 6,
+        "foto": "https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1611792000&v=beta&t=PiB_rSKoWeHnVeAFiaOK-5XgdqE6Wr9w4-sAxaUHqmg",
+        "nome": "LinkedIn",
+        "subTitle": "Patrocinado",
+        "url":"https://media-exp1.licdn.com/dms/image/sync/C5618AQHgDW4iGuUbjQ/companyUpdate-article-image-shrink_627_1200/0?e=1606348800&v=beta&t=1RxHFQQUYFoCzTDuK03wuShmArE5KY3XMqFevRn6_44", 
+        "text": "Pesquise vagas em empresas que buscam suas competências e experiência. https://lnkd.in/gQaQU9Z"
+    }
+
+]

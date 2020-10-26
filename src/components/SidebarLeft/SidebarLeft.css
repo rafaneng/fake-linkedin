@@ -37,6 +37,8 @@ li a {
 }
 .profile-img img {
   width: 70px;
+  height: 70px;
+  object-fit: cover;
 }
 div .profile-name-sub p:first-child {
   color: rgba(0, 0, 0, 0.7);
@@ -47,5 +49,9 @@ div .profile-name-sub p:first-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 .profile-items {
+  padding: 20px;
+}
+
+.tag{
   padding: 20px;
 }

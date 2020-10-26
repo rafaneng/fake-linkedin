@@ -1,0 +1,61 @@
+.feed-write {
+    height: 180px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 100%;
+
+    color: #000000B3;
+}
+
+.container-write {
+    border: 1px solid #00000070;
+    border-radius: 5px 5px 0 0;
+
+    height: 104px;
+
+    font-size: 1.5rem;
+
+    display: flex;
+    align-items: center;
+
+    padding-left: 25px;
+}
+
+.container-options {
+    border: 1px solid #00000070;
+    border-radius: 0px 0px 5px 5px;
+
+    height: 75px;
+
+    font-size: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+
+}
+
+.container-options div span {
+    padding-left: 15px;
+}
+
+.container-options div i {
+    font-size: 1.7rem;
+}
+
+.photo {
+    color: #33AADA;
+}
+
+.video {
+    color: #9896F2;
+}
+
+.event {
+    color: #C19191;
+}
+
+.news {
+    color: #EF7E37;
+}

@@ -1,0 +1,42 @@
+.feed-item {
+    
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    width: 100%;
+    padding: 0.5em;
+    padding-bottom: 20px;
+}
+
+.card-profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+}
+
+.card-text {
+    padding: 1em 1em 0em 1em;
+}
+
+.card-img img{
+    width: 100%;
+}
+
+.card-img {
+    padding: 1em;
+}
+
+.card-interaction {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    justify-content: center;
+
+    color: #000000B3;
+    
+}
+
+.card-interaction span{
+    margin: 0 0.5em 0 0.5em;
+}
